@@ -2,7 +2,7 @@
 
 import config from '../config'
 import { initProxy } from './proxy'
-import { initState } from './state'
+import { initState } from './状态'
 import { initRender } from './render'
 import { initEvents } from './events'
 import { mark, measure } from '../util/perf'

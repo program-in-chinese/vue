@@ -1,7 +1,7 @@
 /* @flow */
 
 import { ASSET_TYPES } from 'shared/constants'
-import { defineComputed, proxy } from '../instance/state'
+import { defineComputed, proxy } from '../instance/状态'
 import { extend, mergeOptions, validateComponentName } from '../util/index'
 
 export function initExtend (Vue: GlobalAPI) {

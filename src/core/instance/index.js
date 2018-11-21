@@ -1,5 +1,5 @@
 import { initMixin } from './初始化'
-import { stateMixin } from './state'
+import { stateMixin } from './状态'
 import { renderMixin } from './render'
 import { eventsMixin } from './events'
 import { lifecycleMixin } from './lifecycle'
