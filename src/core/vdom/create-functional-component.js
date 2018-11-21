@@ -2,7 +2,7 @@
 
 import VNode, { cloneVNode } from './vnode'
 import { createElement } from './create-element'
-import { resolveInject } from '../instance/inject'
+import { resolveInject } from '../instance/注入'
 import { normalizeChildren } from '../vdom/helpers/normalize-children'
 import { resolveSlots } from '../instance/render-helpers/resolve-slots'
 import { installRenderHelpers } from '../instance/render-helpers/index'
