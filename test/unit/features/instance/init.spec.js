@@ -3,7 +3,7 @@ import Vue from 'vue'
 describe('Initialization', () => {
   it('without new', () => {
     try { Vue() } catch (e) {}
-    expect('Vue is a constructor and should be called with the `new` keyword').toHaveBeenWarned()
+    expect('Vue是构造器, 需要`new`调用').toHaveBeenWarned()
   })
 
   it('with new', () => {
