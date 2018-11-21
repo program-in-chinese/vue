@@ -3,7 +3,7 @@
 import config from '../config'
 import { initProxy } from './proxy'
 import { initState } from './状态'
-import { initRender } from './render'
+import { initRender } from './渲染'
 import { initEvents } from './events'
 import { mark, measure } from '../util/perf'
 import { initLifecycle, callHook } from './lifecycle'
