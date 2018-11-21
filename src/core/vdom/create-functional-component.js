@@ -3,7 +3,7 @@
 import VNode, { cloneVNode } from './虚拟节点'
 import { createElement } from './创建元素'
 import { resolveInject } from '../instance/注入'
-import { normalizeChildren } from '../vdom/helpers/normalize-children'
+import { normalizeChildren } from '../vdom/helpers/规格化子节点'
 import { resolveSlots } from '../instance/render-helpers/resolve-slots'
 import { installRenderHelpers } from '../instance/render-helpers/index'
 

@@ -10,7 +10,7 @@ import { normalizeStyleBinding } from 'web/util/style'
 import {
   normalizeChildren,
   simpleNormalizeChildren
-} from 'core/vdom/helpers/normalize-children'
+} from 'core/vdom/helpers/规格化子节点'
 
 import {
   propsToAttrMap,
