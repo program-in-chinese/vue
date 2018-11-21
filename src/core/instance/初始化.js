@@ -1,7 +1,7 @@
 /* @flow */
 
 import config from '../config'
-import { initProxy } from './proxy'
+import { initProxy } from './代理'
 import { initState } from './状态'
 import { initRender } from './渲染'
 import { initEvents } from './事件'

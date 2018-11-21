@@ -4,7 +4,7 @@
 
 import { mergeOptions, isPlainObject, noop } from 'core/util/index'
 import Watcher from 'core/observer/watcher'
-import { initProxy } from 'core/instance/proxy'
+import { initProxy } from 'core/instance/代理'
 import { initState, getData } from 'core/instance/状态'
 import { initRender } from 'core/instance/渲染'
 import { initEvents } from 'core/instance/事件'
