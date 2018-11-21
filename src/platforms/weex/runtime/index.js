@@ -1,6 +1,6 @@
 /* @flow */
 
-import Vue from 'core/index'
+import Vue from 'core/索引'
 import { patch } from 'weex/runtime/patch'
 import { mountComponent } from 'core/instance/生命周期'
 import platformDirectives from 'weex/runtime/directives/index'

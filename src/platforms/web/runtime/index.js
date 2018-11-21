@@ -1,6 +1,6 @@
 /* @flow */
 
-import Vue from 'core/index'
+import Vue from 'core/索引'
 import config from 'core/config'
 import { extend, noop } from 'shared/util'
 import { mountComponent } from 'core/instance/生命周期'
