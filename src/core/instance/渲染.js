@@ -8,7 +8,7 @@ import {
   defineReactive
 } from '../util/index'
 
-import { createElement } from '../vdom/create-element'
+import { createElement } from '../vdom/创建元素'
 import { installRenderHelpers } from './render-helpers/index'
 import { resolveSlots } from './render-helpers/resolve-slots'
 import VNode, { createEmptyVNode } from '../vdom/虚拟节点'

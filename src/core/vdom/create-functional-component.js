@@ -1,7 +1,7 @@
 /* @flow */
 
 import VNode, { cloneVNode } from './虚拟节点'
-import { createElement } from './create-element'
+import { createElement } from './创建元素'
 import { resolveInject } from '../instance/注入'
 import { normalizeChildren } from '../vdom/helpers/normalize-children'
 import { resolveSlots } from '../instance/render-helpers/resolve-slots'
