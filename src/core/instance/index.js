@@ -1,7 +1,7 @@
 import { initMixin } from './初始化'
 import { stateMixin } from './状态'
 import { renderMixin } from './渲染'
-import { eventsMixin } from './events'
+import { eventsMixin } from './事件'
 import { lifecycleMixin } from './lifecycle'
 import { warn } from '../util/index'
 
