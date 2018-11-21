@@ -10,7 +10,7 @@ import { initRender } from 'core/instance/render'
 import { initEvents } from 'core/instance/events'
 import { initProvide, initInjections } from 'core/instance/inject'
 import { initLifecycle, callHook } from 'core/instance/lifecycle'
-import { initInternalComponent, resolveConstructorOptions } from 'core/instance/init'
+import { initInternalComponent, resolveConstructorOptions } from 'core/instance/初始化'
 import { registerComponentHook, updateComponentData } from '../../util/index'
 
 let uid = 0
