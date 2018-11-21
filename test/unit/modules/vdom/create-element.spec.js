@@ -1,5 +1,5 @@
 import Vue from 'vue'
-import { createEmptyVNode } from 'core/vdom/vnode'
+import { createEmptyVNode } from 'core/vdom/虚拟节点'
 
 describe('create-element', () => {
   it('render vnode with basic reserved tag using createElement', () => {

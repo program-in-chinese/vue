@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import { patch } from 'web/runtime/patch'
-import VNode from 'core/vdom/vnode'
+import VNode from 'core/vdom/虚拟节点'
 import { xlinkNS } from 'web/util/index'
 
 describe('vdom attrs module', () => {

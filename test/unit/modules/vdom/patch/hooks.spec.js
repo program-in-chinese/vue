@@ -3,7 +3,7 @@ import { createPatchFunction } from 'core/vdom/patch'
 import baseModules from 'core/vdom/modules/index'
 import * as nodeOps from 'web/runtime/node-ops'
 import platformModules from 'web/runtime/modules/index'
-import VNode from 'core/vdom/vnode'
+import VNode from 'core/vdom/虚拟节点'
 
 const modules = baseModules.concat(platformModules)
 

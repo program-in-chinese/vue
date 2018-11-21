@@ -1,5 +1,5 @@
 import { patch } from 'web/runtime/patch'
-import VNode from 'core/vdom/vnode'
+import VNode from 'core/vdom/虚拟节点'
 
 describe('vdom style module', () => {
   it('should create an element with style', () => {

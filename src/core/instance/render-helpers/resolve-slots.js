@@ -1,6 +1,6 @@
 /* @flow */
 
-import type VNode from 'core/vdom/vnode'
+import type VNode from 'core/vdom/虚拟节点'
 
 /**
  * Runtime helper for resolving raw children VNodes into a slot object.

@@ -1,5 +1,5 @@
 import { patch } from 'web/runtime/patch'
-import VNode, { createEmptyVNode } from 'core/vdom/vnode'
+import VNode, { createEmptyVNode } from 'core/vdom/虚拟节点'
 
 function prop (name) {
   return obj => { return obj[name] }

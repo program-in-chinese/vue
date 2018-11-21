@@ -3,7 +3,7 @@
 import config from '../config'
 import Watcher from '../observer/watcher'
 import { mark, measure } from '../util/perf'
-import { createEmptyVNode } from '../vdom/vnode'
+import { createEmptyVNode } from '../vdom/虚拟节点'
 import { updateComponentListeners } from './事件'
 import { resolveSlots } from './render-helpers/resolve-slots'
 import { toggleObserving } from '../observer/index'

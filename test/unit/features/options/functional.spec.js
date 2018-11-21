@@ -1,5 +1,5 @@
 import Vue from 'vue'
-import { createEmptyVNode } from 'core/vdom/vnode'
+import { createEmptyVNode } from 'core/vdom/虚拟节点'
 
 describe('Options functional', () => {
   it('should work', done => {

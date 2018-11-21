@@ -2,7 +2,7 @@
 
 import { _Set as Set, isObject } from '../util/index'
 import type { SimpleSet } from '../util/index'
-import VNode from '../vdom/vnode'
+import VNode from '../vdom/虚拟节点'
 
 const seenObjects = new Set()
 

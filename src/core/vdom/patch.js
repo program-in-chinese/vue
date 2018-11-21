@@ -10,7 +10,7 @@
  * of making flow understand it is not worth it.
  */
 
-import VNode, { cloneVNode } from './vnode'
+import VNode, { cloneVNode } from './虚拟节点'
 import config from '../config'
 import { SSR_ATTR } from 'shared/constants'
 import { registerRef } from './modules/ref'

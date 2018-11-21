@@ -1,6 +1,6 @@
 /* @flow */
 
-import VNode from './vnode'
+import VNode from './虚拟节点'
 import { resolveConstructorOptions } from 'core/instance/初始化'
 import { queueActivatedComponent } from 'core/observer/scheduler'
 import { createFunctionalComponent } from './create-functional-component'

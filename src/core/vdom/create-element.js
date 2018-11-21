@@ -1,7 +1,7 @@
 /* @flow */
 
 import config from '../config'
-import VNode, { createEmptyVNode } from './vnode'
+import VNode, { createEmptyVNode } from './虚拟节点'
 import { createComponent } from './create-component'
 import { traverse } from '../observer/traverse'
 

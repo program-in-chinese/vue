@@ -1,7 +1,7 @@
 /* @flow */
 
 import { toNumber, toString, looseEqual, looseIndexOf } from 'shared/util'
-import { createTextVNode, createEmptyVNode } from 'core/vdom/vnode'
+import { createTextVNode, createEmptyVNode } from 'core/vdom/虚拟节点'
 import { renderList } from './render-list'
 import { renderSlot } from './render-slot'
 import { resolveFilter } from './resolve-filter'

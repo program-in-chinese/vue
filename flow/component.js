@@ -1,5 +1,5 @@
 import type { Config } from '../src/core/config'
-import type VNode from '../src/core/vdom/vnode'
+import type VNode from '../src/core/vdom/虚拟节点'
 import type Watcher from '../src/core/observer/watcher'
 
 declare interface Component {

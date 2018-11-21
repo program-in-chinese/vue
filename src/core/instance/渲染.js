@@ -11,7 +11,7 @@ import {
 import { createElement } from '../vdom/create-element'
 import { installRenderHelpers } from './render-helpers/index'
 import { resolveSlots } from './render-helpers/resolve-slots'
-import VNode, { createEmptyVNode } from '../vdom/vnode'
+import VNode, { createEmptyVNode } from '../vdom/虚拟节点'
 
 import { isUpdatingChildComponent } from './生命周期'
 

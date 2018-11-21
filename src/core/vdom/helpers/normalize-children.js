@@ -1,6 +1,6 @@
 /* @flow */
 
-import VNode, { createTextVNode } from 'core/vdom/vnode'
+import VNode, { createTextVNode } from 'core/vdom/虚拟节点'
 import { isFalse, isTrue, isDef, isUndef, isPrimitive } from 'shared/util'
 
 // The template compiler attempts to minimize the need for normalization by

@@ -1,7 +1,7 @@
 /* @flow */
 
 import Dep from './dep'
-import VNode from '../vdom/vnode'
+import VNode from '../vdom/虚拟节点'
 import { arrayMethods } from './array'
 import {
   def,

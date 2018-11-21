@@ -10,7 +10,7 @@ import {
   hasSymbol
 } from 'core/util/index'
 
-import { createEmptyVNode } from 'core/vdom/vnode'
+import { createEmptyVNode } from 'core/vdom/虚拟节点'
 
 function ensureCtor (comp: any, base) {
   if (

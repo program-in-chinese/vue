@@ -1,6 +1,6 @@
 /* @flow */
 
-import VNode from 'core/vdom/vnode'
+import VNode from 'core/vdom/虚拟节点'
 import { renderAttr } from './attrs'
 import { isDef, isUndef, extend } from 'shared/util'
 import { propsToAttrMap, isRenderableAttr } from '../util'
