@@ -44,7 +44,7 @@ const builds = {
   },
   // Runtime+compiler CommonJS build (CommonJS)
   'web-full-cjs': {
-    entry: resolve('web/entry-runtime-with-compiler.js'),
+    entry: resolve('web/入口-运行时-带编译器.js'),
     dest: resolve('dist/vue.common.js'),
     format: 'cjs',
     alias: { he: './entity-decoder' },
@@ -60,7 +60,7 @@ const builds = {
   },
   // Runtime+compiler CommonJS build (ES Modules)
   'web-full-esm': {
-    entry: resolve('web/entry-runtime-with-compiler.js'),
+    entry: resolve('web/入口-运行时-带编译器.js'),
     dest: resolve('dist/vue.esm.js'),
     format: 'es',
     alias: { he: './entity-decoder' },
@@ -84,7 +84,7 @@ const builds = {
   },
   // Runtime+compiler development build (Browser)
   'web-full-dev': {
-    entry: resolve('web/entry-runtime-with-compiler.js'),
+    entry: resolve('web/入口-运行时-带编译器.js'),
     dest: resolve('dist/vue.js'),
     format: 'umd',
     env: 'development',
@@ -93,7 +93,7 @@ const builds = {
   },
   // Runtime+compiler production build  (Browser)
   'web-full-prod': {
-    entry: resolve('web/entry-runtime-with-compiler.js'),
+    entry: resolve('web/入口-运行时-带编译器.js'),
     dest: resolve('dist/vue.min.js'),
     format: 'umd',
     env: 'production',
