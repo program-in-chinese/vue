@@ -2,7 +2,7 @@
 
 import type Watcher from './watcher'
 import config from '../config'
-import { callHook, activateChildComponent } from '../instance/lifecycle'
+import { callHook, activateChildComponent } from '../instance/生命周期'
 
 import {
   warn,

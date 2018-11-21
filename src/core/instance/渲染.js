@@ -13,7 +13,7 @@ import { installRenderHelpers } from './render-helpers/index'
 import { resolveSlots } from './render-helpers/resolve-slots'
 import VNode, { createEmptyVNode } from '../vdom/vnode'
 
-import { isUpdatingChildComponent } from './lifecycle'
+import { isUpdatingChildComponent } from './生命周期'
 
 export function initRender (vm: Component) {
   vm._vnode = null // the root of the child tree

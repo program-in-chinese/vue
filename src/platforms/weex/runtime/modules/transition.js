@@ -1,6 +1,6 @@
 import { warn } from 'core/util/debug'
 import { extend, once, noop } from 'shared/util'
-import { activeInstance } from 'core/instance/lifecycle'
+import { activeInstance } from 'core/instance/生命周期'
 import { resolveTransition } from 'web/runtime/transition-util'
 
 export default {

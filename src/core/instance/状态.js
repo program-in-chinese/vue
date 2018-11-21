@@ -3,7 +3,7 @@
 import config from '../config'
 import Watcher from '../observer/watcher'
 import Dep, { pushTarget, popTarget } from '../observer/dep'
-import { isUpdatingChildComponent } from './lifecycle'
+import { isUpdatingChildComponent } from './生命周期'
 
 import {
   set,

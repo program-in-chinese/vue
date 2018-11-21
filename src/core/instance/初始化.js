@@ -6,7 +6,7 @@ import { initState } from './状态'
 import { initRender } from './渲染'
 import { initEvents } from './事件'
 import { mark, measure } from '../util/perf'
-import { initLifecycle, callHook } from './lifecycle'
+import { initLifecycle, callHook } from './生命周期'
 import { initProvide, initInjections } from './inject'
 import { extend, mergeOptions, formatComponentName } from '../util/index'
 

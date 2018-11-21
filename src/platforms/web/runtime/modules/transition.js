@@ -2,7 +2,7 @@
 
 import { inBrowser, isIE9, warn } from 'core/util/index'
 import { mergeVNodeHook } from 'core/vdom/helpers/index'
-import { activeInstance } from 'core/instance/lifecycle'
+import { activeInstance } from 'core/instance/生命周期'
 
 import {
   once,

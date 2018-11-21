@@ -2,7 +2,7 @@
 
 import Vue from 'core/index'
 import { patch } from 'weex/runtime/patch'
-import { mountComponent } from 'core/instance/lifecycle'
+import { mountComponent } from 'core/instance/生命周期'
 import platformDirectives from 'weex/runtime/directives/index'
 import platformComponents from 'weex/runtime/components/index'
 

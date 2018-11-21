@@ -25,7 +25,7 @@ import {
   updateChildComponent,
   activateChildComponent,
   deactivateChildComponent
-} from '../instance/lifecycle'
+} from '../instance/生命周期'
 
 import {
   isRecyclableComponent,
