@@ -1,8 +1,8 @@
-import { initMixin } from './初始化'
-import { stateMixin } from './状态'
-import { renderMixin } from './渲染'
-import { eventsMixin } from './事件'
-import { lifecycleMixin } from './生命周期'
+import { 混入初始化 } from './初始化'
+import { 混入状态 } from './状态'
+import { 混入渲染 } from './渲染'
+import { 混入事件 } from './事件'
+import { 混入生命周期 } from './生命周期'
 import { warn } from '../util/index'
 
 function Vue (选项) {
@@ -14,10 +14,10 @@ function Vue (选项) {
   this._init(选项)
 }
 
-initMixin(Vue)
-stateMixin(Vue)
-eventsMixin(Vue)
-lifecycleMixin(Vue)
-renderMixin(Vue)
+混入初始化(Vue)
+混入状态(Vue)
+混入事件(Vue)
+混入生命周期(Vue)
+混入渲染(Vue)
 
 export default Vue
