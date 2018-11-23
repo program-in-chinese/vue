@@ -1,6 +1,6 @@
 /* @flow */
 
-import { identity, resolveAsset } from 'core/util/index'
+import { identity, resolveAsset } from 'core/util/索引'
 
 /**
  * Runtime helper for resolving filters

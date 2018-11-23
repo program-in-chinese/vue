@@ -1,7 +1,7 @@
 /* @flow */
 
-import { _Set as Set, isObject } from '../util/index'
-import type { SimpleSet } from '../util/index'
+import { _Set as Set, isObject } from '../util/索引'
+import type { SimpleSet } from '../util/索引'
 import VNode from '../vdom/虚拟节点'
 
 const seenObjects = new Set()

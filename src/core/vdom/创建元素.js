@@ -13,7 +13,7 @@ import {
   isObject,
   isPrimitive,
   resolveAsset
-} from '../util/index'
+} from '../util/索引'
 
 import {
   normalizeChildren,

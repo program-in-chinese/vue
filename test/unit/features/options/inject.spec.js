@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import { Observer } from 'core/observer/index'
-import { isNative, isObject, hasOwn } from 'core/util/index'
+import { isNative, isObject, hasOwn } from 'core/util/索引'
 import testObjectOption from '../../../helpers/test-object-option'
 
 describe('Options provide/inject', () => {

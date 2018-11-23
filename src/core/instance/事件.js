@@ -6,7 +6,7 @@ import {
   hyphenate,
   handleError,
   formatComponentName
-} from '../util/index'
+} from '../util/索引'
 import { updateListeners } from '../vdom/helpers/index'
 
 export function initEvents (vm: Component) {

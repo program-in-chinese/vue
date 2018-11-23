@@ -1,6 +1,6 @@
 /* @flow */
 
-import { extend, warn, isObject } from 'core/util/index'
+import { extend, warn, isObject } from 'core/util/索引'
 
 /**
  * Runtime helper for rendering <slot>

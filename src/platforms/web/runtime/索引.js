@@ -4,7 +4,7 @@ import Vue from 'core/索引'
 import config from 'core/config'
 import { extend, noop } from 'shared/util'
 import { mountComponent } from 'core/instance/生命周期'
-import { devtools, inBrowser, isChrome } from 'core/util/index'
+import { devtools, inBrowser, isChrome } from 'core/util/索引'
 
 import {
   query,

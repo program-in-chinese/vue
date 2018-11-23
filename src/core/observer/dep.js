@@ -1,7 +1,7 @@
 /* @flow */
 
 import type Watcher from './watcher'
-import { remove } from '../util/index'
+import { remove } from '../util/索引'
 import config from '../config'
 
 let uid = 0

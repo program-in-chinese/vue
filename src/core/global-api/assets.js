@@ -1,7 +1,7 @@
 /* @flow */
 
 import { ASSET_TYPES } from 'shared/constants'
-import { isPlainObject, validateComponentName } from '../util/index'
+import { isPlainObject, validateComponentName } from '../util/索引'
 
 export function initAssetRegisters (Vue: GlobalAPI) {
   /**

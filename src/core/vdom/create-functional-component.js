@@ -14,7 +14,7 @@ import {
   camelize,
   emptyObject,
   validateProp
-} from '../util/index'
+} from '../util/索引'
 
 export function FunctionalRenderContext (
   data: VNodeData,

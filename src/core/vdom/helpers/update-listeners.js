@@ -1,6 +1,6 @@
 /* @flow */
 
-import { warn } from 'core/util/index'
+import { warn } from 'core/util/索引'
 import { cached, isUndef, isPlainObject } from 'shared/util'
 
 const normalizeEvent = cached((name: string): {

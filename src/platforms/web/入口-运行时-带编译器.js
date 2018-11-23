@@ -1,7 +1,7 @@
 /* @flow */
 
 import config from 'core/config'
-import { warn, cached } from 'core/util/index'
+import { warn, cached } from 'core/util/索引'
 import { mark, measure } from 'core/util/perf'
 
 import Vue from './runtime/索引'

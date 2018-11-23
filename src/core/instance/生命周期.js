@@ -16,7 +16,7 @@ import {
   handleError,
   emptyObject,
   validateProp
-} from '../util/index'
+} from '../util/索引'
 
 export let activeInstance: any = null
 export let isUpdatingChildComponent: boolean = false

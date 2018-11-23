@@ -8,7 +8,7 @@ import { initEvents } from './事件'
 import { mark, measure } from '../util/perf'
 import { initLifecycle, callHook } from './生命周期'
 import { initProvide, initInjections } from './注入'
-import { extend, mergeOptions, formatComponentName } from '../util/index'
+import { extend, mergeOptions, formatComponentName } from '../util/索引'
 
 let uid = 0
 

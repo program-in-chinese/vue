@@ -14,7 +14,7 @@ import {
   isUndef,
   isValidArrayIndex,
   isServerRendering
-} from '../util/index'
+} from '../util/索引'
 
 const arrayKeys = Object.getOwnPropertyNames(arrayMethods)
 

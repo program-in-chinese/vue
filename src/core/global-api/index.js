@@ -15,7 +15,7 @@ import {
   nextTick,
   mergeOptions,
   defineReactive
-} from '../util/index'
+} from '../util/索引'
 
 export function initGlobalAPI (Vue: GlobalAPI) {
   // config

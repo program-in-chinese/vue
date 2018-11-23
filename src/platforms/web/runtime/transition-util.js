@@ -1,6 +1,6 @@
 /* @flow */
 
-import { inBrowser, isIE9 } from 'core/util/index'
+import { inBrowser, isIE9 } from 'core/util/索引'
 import { addClass, removeClass } from './class-util'
 import { remove, extend, cached } from 'shared/util'
 

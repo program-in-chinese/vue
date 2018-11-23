@@ -1,7 +1,7 @@
 /* @flow */
 declare var document: WeexDocument;
 
-import { warn } from 'core/util/index'
+import { warn } from 'core/util/索引'
 
 export const RECYCLE_LIST_MARKER = '@inRecycleList'
 

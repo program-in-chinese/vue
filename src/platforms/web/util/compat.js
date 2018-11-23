@@ -1,6 +1,6 @@
 /* @flow */
 
-import { inBrowser } from 'core/util/index'
+import { inBrowser } from 'core/util/索引'
 
 // check whether current browser encodes a char inside attribute values
 let div

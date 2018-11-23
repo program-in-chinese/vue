@@ -26,7 +26,7 @@ import {
   makeMap,
   isRegExp,
   isPrimitive
-} from '../util/index'
+} from '../util/索引'
 
 export const emptyNode = new VNode('', {}, [])
 

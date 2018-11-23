@@ -8,7 +8,7 @@ import {
   isTrue,
   isObject,
   hasSymbol
-} from 'core/util/index'
+} from 'core/util/索引'
 
 import { createEmptyVNode } from 'core/vdom/虚拟节点'
 

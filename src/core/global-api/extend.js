@@ -2,7 +2,7 @@
 
 import { ASSET_TYPES } from 'shared/constants'
 import { defineComputed, proxy } from '../instance/状态'
-import { extend, mergeOptions, validateComponentName } from '../util/index'
+import { extend, mergeOptions, validateComponentName } from '../util/索引'
 
 export function initExtend (Vue: GlobalAPI) {
   /**

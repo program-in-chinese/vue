@@ -3,7 +3,7 @@ import { 混入状态 } from './状态'
 import { 混入渲染 } from './渲染'
 import { 混入事件 } from './事件'
 import { 混入生命周期 } from './生命周期'
-import { warn } from '../util/index'
+import { warn } from '../util/索引'
 
 function Vue (选项) {
   if (process.env.NODE_ENV !== 'production' &&

@@ -1,6 +1,6 @@
 /* @flow */
 
-// import { warn } from 'core/util/index'
+// import { warn } from 'core/util/索引'
 
 // this will be preserved during build
 // $flow-disable-line

@@ -1,6 +1,6 @@
 /* @flow */
 
-import { warn } from 'core/util/index'
+import { warn } from 'core/util/索引'
 
 export * from './attrs'
 export * from './class'

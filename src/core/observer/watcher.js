@@ -8,13 +8,13 @@ import {
   _Set as Set,
   handleError,
   noop
-} from '../util/index'
+} from '../util/索引'
 
 import { traverse } from './traverse'
 import { queueWatcher } from './scheduler'
 import Dep, { pushTarget, popTarget } from './dep'
 
-import type { SimpleSet } from '../util/index'
+import type { SimpleSet } from '../util/索引'
 
 let uid = 0
 

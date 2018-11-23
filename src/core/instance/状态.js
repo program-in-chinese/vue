@@ -26,7 +26,7 @@ import {
   isPlainObject,
   isServerRendering,
   isReservedAttribute
-} from '../util/index'
+} from '../util/索引'
 
 const sharedPropertyDefinition = {
   enumerable: true,

@@ -1,6 +1,6 @@
 /* @flow */
 
-import { mergeOptions } from '../util/index'
+import { mergeOptions } from '../util/索引'
 
 export function initMixin (Vue: GlobalAPI) {
   Vue.mixin = function (mixin: Object) {

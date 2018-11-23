@@ -11,7 +11,7 @@
 // into the final desired state. This way in the second pass removed
 // nodes will remain where they should be.
 
-import { warn, extend } from 'core/util/index'
+import { warn, extend } from 'core/util/索引'
 import { addClass, removeClass } from '../class-util'
 import { transitionProps, extractTransitionData } from './transition'
 

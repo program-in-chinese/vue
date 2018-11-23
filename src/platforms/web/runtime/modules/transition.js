@@ -1,6 +1,6 @@
 /* @flow */
 
-import { inBrowser, isIE9, warn } from 'core/util/index'
+import { inBrowser, isIE9, warn } from 'core/util/索引'
 import { mergeVNodeHook } from 'core/vdom/helpers/index'
 import { activeInstance } from 'core/instance/生命周期'
 

@@ -2,7 +2,7 @@
 
 // https://github.com/Hanks10100/weex-native-directive/tree/master/component
 
-import { mergeOptions, isPlainObject, noop } from 'core/util/index'
+import { mergeOptions, isPlainObject, noop } from 'core/util/索引'
 import Watcher from 'core/observer/watcher'
 import { initProxy } from 'core/instance/代理'
 import { initState, getData } from 'core/instance/状态'

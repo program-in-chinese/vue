@@ -11,7 +11,7 @@ import {
   isUndef,
   isTrue,
   isObject
-} from '../util/index'
+} from '../util/索引'
 
 import {
   resolveAsyncComponent,

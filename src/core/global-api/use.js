@@ -1,6 +1,6 @@
 /* @flow */
 
-import { toArray } from '../util/index'
+import { toArray } from '../util/索引'
 
 export function initUse (Vue: GlobalAPI) {
   Vue.use = function (plugin: Function | Object) {

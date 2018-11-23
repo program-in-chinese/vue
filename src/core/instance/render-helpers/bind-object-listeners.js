@@ -1,6 +1,6 @@
 /* @flow */
 
-import { warn, extend, isPlainObject } from 'core/util/index'
+import { warn, extend, isPlainObject } from 'core/util/索引'
 
 export function bindObjectListeners (data: any, value: any): VNodeData {
   if (value) {

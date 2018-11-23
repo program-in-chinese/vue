@@ -6,7 +6,7 @@ import {
   emptyObject,
   handleError,
   defineReactive
-} from '../util/index'
+} from '../util/索引'
 
 import { createElement } from '../vdom/创建元素'
 import { installRenderHelpers } from './render-helpers/index'

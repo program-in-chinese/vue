@@ -1,7 +1,7 @@
 /* @flow */
 
 import { hasOwn } from 'shared/util'
-import { warn, hasSymbol } from '../util/index'
+import { warn, hasSymbol } from '../util/索引'
 import { defineReactive, toggleObserving } from '../observer/index'
 
 export function initProvide (vm: Component) {

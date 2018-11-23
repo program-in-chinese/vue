@@ -7,7 +7,7 @@ import {
   isObject,
   toObject,
   isReservedAttribute
-} from 'core/util/index'
+} from 'core/util/索引'
 
 /**
  * Runtime helper for merging v-bind="object" into a VNode's data.

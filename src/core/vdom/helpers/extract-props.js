@@ -7,7 +7,7 @@ import {
   isUndef,
   hyphenate,
   formatComponentName
-} from 'core/util/index'
+} from 'core/util/索引'
 
 export function extractPropsFromVNodeData (
   data: VNodeData,

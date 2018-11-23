@@ -1,4 +1,4 @@
-import { warn, extend } from 'core/util/index'
+import { warn, extend } from 'core/util/索引'
 import { transitionProps, extractTransitionData } from './transition'
 
 const props = extend({

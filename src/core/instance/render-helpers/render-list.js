@@ -1,6 +1,6 @@
 /* @flow */
 
-import { isObject, isDef } from 'core/util/index'
+import { isObject, isDef } from 'core/util/索引'
 
 /**
  * Runtime helper for rendering v-for lists.

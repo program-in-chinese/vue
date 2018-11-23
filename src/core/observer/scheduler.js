@@ -8,7 +8,7 @@ import {
   warn,
   nextTick,
   devtools
-} from '../util/index'
+} from '../util/索引'
 
 export const MAX_UPDATE_COUNT = 100
 
